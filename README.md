@@ -5,7 +5,7 @@
 git clone https://github.com/kshitij-kj/AI-Copilot-Workbench
 
 # Step 2: Navigate to the project directory.
-cd AI-Copilot-Workbench
+cd AI-Copilot-Workbench-main
 
 # Step 3: Install the necessary dependencies.
 npm i
